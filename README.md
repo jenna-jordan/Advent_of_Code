@@ -4,11 +4,13 @@ https://adventofcode.com
 
 This is a repo for my solutions to all Advent of Code puzzles.
 
+## 2024
+
+- 1: **
+
 ## 2021
 
 Live streamed on Twitch as I solved these puzzles in December 2021.
-
-### Stars
 
 - 1: **
 - 2: **
