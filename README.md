@@ -7,6 +7,7 @@ This is a repo for my solutions to all Advent of Code puzzles.
 ## 2024
 
 - 1: **
+- 2: **
 
 ## 2021
 
