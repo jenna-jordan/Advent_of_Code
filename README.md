@@ -9,7 +9,7 @@ This is a repo for my solutions to all Advent of Code puzzles.
 - 1: **
 - 2: **
 - 3: **
-- 4: *
+- 4: **
 - 5:
 
 ## 2021
