@@ -11,6 +11,7 @@ This is a repo for my solutions to all Advent of Code puzzles.
 - 3: **
 - 4: **
 - 5: **
+- 6: *
 
 ## 2021
 
