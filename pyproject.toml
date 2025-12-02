@@ -1,0 +1,12 @@
+[project]
+name = "advent-of-code"
+version = "0.1.0"
+description = "All Advent of Code puzzles. Started using uv and mise in 2025"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "notebook>=7.5.0",
+    "numpy>=2.3.5",
+]
