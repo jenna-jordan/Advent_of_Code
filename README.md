@@ -12,6 +12,7 @@ This is a repo for my solutions to all Advent of Code puzzles.
 - 5: *
 - 6: **
 - 7: *
+- 8:
 
 ## 2024
 
